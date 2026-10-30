@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-REPO="byteartesan-labs/whitecheetah-cli"
+REPO="byteartesan-labs/whitecheetah-cli-releases"
 BINARY="whitecheetah-cli"
 INSTALL_DIR="/usr/local/bin"
 
